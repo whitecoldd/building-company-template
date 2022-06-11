@@ -1,0 +1,21 @@
+<svg id="Réteg_1" data-name="Réteg 1" xmlns="http://www.w3.org/2000/svg" width="50" height="30.1" viewBox="0 0 50 30.1">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: none;
+        isolation: isolate;
+      }
+    </style>
+  </defs>
+  <title>logo-white</title>
+  <path class="cls-1" d="M14.8,30.1H0v-15H14.8Z"/>
+  <path class="cls-2"/>
+  <path class="cls-1" d="M27.87,30.1H17.08V0H27.87Z"/>
+  <path class="cls-2"/>
+  <path class="cls-1" d="M50,30.1H30.17v-21H50Z"/>
+  <path class="cls-2"/>
+</svg>
